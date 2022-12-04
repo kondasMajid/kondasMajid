@@ -5,16 +5,17 @@ I make and break stuffs :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Algorithm & Ccoud Computng
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/ or Angular/Web Technology/UI/UX
-- 📫 &nbsp;How to reach me: [@kondasMajid](https://twitter.com/kondasmajd=id) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
+- 📫 &nbsp;How to reach me: [@kondasMajid](https://twitter.com/kondasmajid) or Kondasmajid@gmail.com
 - 👨‍💻 &nbsp;Read more about my projects at [codelab.com](https://kondasmajid@netflify.com)
 - ⚡ &nbsp;Fun fact: I :heart: Music :dog:s and Gaming 
 
 <!-- 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+<!-- - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
+- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo) -->
+coming soon
 <!-- BLOG-POST-LIST:END --> -->
 
 🔗 &nbsp;**Connect with me**
