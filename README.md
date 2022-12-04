@@ -1,5 +1,5 @@
 
-### Hi there  <a href="">Kondas Majid</a><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there  I'm <a href="">Kondas Majid</a><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 I make and break stuffs :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
@@ -7,16 +7,18 @@ I make and break stuffs :rofl:
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/ or Angular/Web Technology/UI/UX
 - 📫 &nbsp;How to reach me: [@kondasMajid](https://twitter.com/kondasmajid) or Kondasmajid@gmail.com
 - 👨‍💻 &nbsp;Read more about my projects at [codelab.com](https://kondasmajid@netflify.com)
-- ⚡ &nbsp;Fun fact: I :heart: Music :dog:s and Gaming 
-
-<!-- 📕 &nbsp;**Latest Blog Posts**
+- ⚡ &nbsp;Fun fact: I :heart: Music | Reading Tech  Artcles | Gaming | Anmals | Blogging
+<br><br>
+ 📕 &nbsp;** Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo) -->
 coming soon
-<!-- BLOG-POST-LIST:END --> -->
+<!-- BLOG-POST-LIST:END --> 
+
+<br><br>
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -33,7 +35,7 @@ coming soon
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
+I am a Full Stack Developer with 4+ years of experience in developing enterprise applications and proviidng business solutions.
 
 ### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
@@ -46,18 +48,12 @@ All of my projects are released as open-source on GitHub, this includes some of 
 [⏩ &nbsp; and many more](https://github.com/gautamkrishnar?tab=repositories&q=&type=source&language=&sort=stargazers) 
 
 ```
-                  ____                      
- |  /
- |/
-  \
-    __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _  
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
+                                      
+||  //  ----  |\\   ||  ||
+||//   |    | || \\ ||  ||
+|| \\  |    | ||  \\||  ||
+||  \\ |____| ||   \_|  ||
+
 ```
 
 Most of my leisure time is to contribute to open-source projects on GitHub. Acknowledging my extensive contribution to DuckDuckGo's open source projects, I was promoted as a maintainer and community leader with write access to all DuckDuckGo's repositories. I had contributed to Mozilla, Angular, Svelte, Node.JS, and several other open-source projects and organizations.
