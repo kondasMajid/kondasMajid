@@ -1,9 +1,13 @@
 
-### Hi there  I'm <a href="">Kondas Majid</a><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-I make and break stuffs :rofl:
+### Hi there  I'm <a href="">Kondas </a><a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<h2> </h2>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="40%"/>
+</div>
+<h2 align="center">I make and break stuffs :rofl: </h2>
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Algorithm & Ccoud Computng
+- 🌱 &nbsp;I’m currently learning Algorithm & Cloud Computng
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/ or Angular/Web Technology/UI/UX
 - 📫 &nbsp;How to reach me: [@kondasMajid](https://twitter.com/kondasmajid) or Kondasmajid@gmail.com
 - 👨‍💻 &nbsp;Read more about my projects at [codelab.com](https://kondasmajid@netflify.com)
@@ -161,9 +165,7 @@ No activity tracked
 
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="70%"/>
-</div>
+
 
 <div id="badges" align="center" >
   <a href="your-linkedin-URL">
