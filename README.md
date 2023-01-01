@@ -19,7 +19,7 @@ I am a full-stack developer. I love programming, desgning, music and traveling.
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me  anything related to Javascript/Typescript/Angular/Web/ UI/UX;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; Read more about my projects at [codelab.com](https://kondasmajid@netflify.com)
+
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;   [@kondasMajid](https://twitter.com/kondasmajid) or Kondasmajid@gmail.com
 <!-- - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
  -->
